@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+@media screen and (max-width: 540px) {
+     
+  body {
+    width: 750px;
+  }
+
+  header {
+    width: 750px;
+    background-size: cover;
+    background-position: contain;
+    height: 60rem;
+}
+
+.first {
+  width: 750px;
+}
+
+#bars {
+  display: block;
+  margin-left: 400px;
+}
+
+.container-1 {
+  height: 1100px;
+}
+
+.three {
+  left: 200px;
+}
+
+#vision {
+  text-align: left;
+}
+.four {
+  top: 500px;
+  left: 200px;
+}
+
+.container-2 {
+  width: 750px;
+}
+
+#edge {
+  left: 470px;
+}
+
+.nine {
+  left: 400px;
+
+}
+
+.container-7 {
+  height: 2300px;
+}
+
+.thirteen {
+  top: 800px;
+  left: 240px;
+}
+
+.fourteen {
+  left: 240px;
+}
+
+.twelve {
+  top: 1450px;
+  left: 240px;
+  right: 0;
+}
+
+}
+
+
+
+@media screen and (max-width: 430px) {
+  
+
+  header {
+    background-size: cover;
+    background-position: contain;
+    height: 55rem;
+}
+
+.first li {
+    display: none;
+}
+
+#lasaco {
+    display: block;
+    margin-left: 30px;
+    
+}
+
+#lasaco img {
+    width: 130px;
+}
+
+#bars {
+    display: block;
+    margin-left: 400px;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.first {
+height: 100px;
+}
+
+.two {
+  left: 50px;
+}
+
+#one {
+  font-size: 20px;
+}
+
+.seven {
+  left: 10px;
+}
+
+.six {
+  left: 260px;
+}
+
+#edge {
+  width: 220px;
+}
+
+.nine {
+  left: 300px;
+  right: 0;
+}
+
+#round {
+  width: 220px;
+}
+
+#claims {
+  width: 180px;
+  left: 500px;
+  top: 150px;
+}
+
+.ten {
+  left: 10px;
+}
+
+th {
+  padding-left: 20px;
+}
+
+td {
+  padding-left: 20px;
+}
+
+.close {
+  left: 130px;
+  top: 320px;
+}
+
+.close2 {
+  left: 200px;
+}
+
+.close4 {
+  left: 20px;
+}
+
+.second {
+  right: 40px;
+}
+
+}
