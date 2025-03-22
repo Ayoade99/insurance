@@ -18,11 +18,11 @@ html {
 }
 
 .one {
-    left: 25rem;
+    left: 250px;
 }
 
 .two {
-    left: 20rem;
+    left: 200px;
 }
 
 #vission {
@@ -31,72 +31,72 @@ html {
 
 #mission {
     width: 30rem;
-    margin-top: 1.5rem;
+    margin-top: 15px;
 }
 
 #two {
-    font-size: 1rem;
+    font-size: 10px;
     padding-left: 0;
 }
 
 #three {
-    font-size: 1rem;
+    font-size: 10px;
 }
 
 .four {
-    left: 8rem;
+    left: 80px;
 }
 
 .three {
-    right: 7rem;
+    right: 70px;
 }
 
 #cutting2{
-    padding-top: 10rem;
+    padding-top: 100px;
 }
 
 .five {
-    right: 12rem;
+    right: 120px;
 }
 
 #five {
-    font-size: 1rem;
+    font-size: 10px;
 }
 
 .six {
-    left: 42rem;
+    left: 420px;
 }
 
 .seven {
-    left: 15rem;
+    left: 150px;
 }
 
 #edge {
     width: 35rem;
-    top: 20rem;
-    right: 10rem;
+    top: 200px;
+    right: 100px;
 }
 
 #cutting {
-    margin-top: 3rem;
+    margin-top: 30px;
 }
 
 .container-3 {
-    height: 50rem;
+    height: 500px;
 }
 .container-4 img {
     width: 35rem;
-    margin-left: 5rem;
-    margin-top: 17rem;
+    margin-left: 50px;
+    margin-top: 170px;
 }
 
 .container-4{
-    height: 50rem;
+    height: 500px;
 }
 
 #claims {
     width: 35rem;
-    margin-top: 16rem;
+    margin-top: 160px;
     margin-right: 10rem;
 }
 
@@ -436,75 +436,3 @@ td {
 }
 
 
-@media screen and (max-width: 640px) {
-    
-    body {
-        width: 750px;
-    }
-
-    #bars {
-        margin-left: 400px;
-    }
-
-
-    #one {
-        font-size: 20px;
-    }
-
-    .four {
-        left: 10px;
-    }
-
-    #edge {
-        right: 50px;
-    }
-
-    #claims {
-        left: 480px;
-    }
-
-    .container-7 {
-        height: 2300px;
-      }
-      
-      .thirteen {
-        top: 800px;
-        left: 240px;
-      }
-      
-      .fourteen {
-        left: 240px;
-      }
-      
-      .twelve {
-        top: 1450px;
-        left: 240px;
-        right: 0;
-      }
-      
-      th {
-        padding-left: 20px;
-      }
-      
-      td {
-        padding-left: 20px;
-      }
-      
-      .close {
-        left: 130px;
-        top: 320px;
-      }
-      
-      .close2 {
-        left: 200px;
-      }
-      
-      .close4 {
-        left: 20px;
-      }
-      
-      .second {
-        right: 40px;
-      }
-      
-}

@@ -10,174 +10,487 @@ html {
 
 @media screen and (max-width: 540px) {
      
-  body {
-    width: 750px;
-  }
 
   header {
-    width: 750px;
+    width: 100%;
     background-size: cover;
     background-position: contain;
     height: 60rem;
+  }
+
+  #bars {
+    display: block;
+    margin-left: 200px;
+    padding-top: 2rem;
+  }
+
+  .container-1 {
+    height: 1100px;
+  }
+
+  #welcome {
+    font-size: 30px;
+  }
+
+  #the {
+    font-size: 15px;
+  }
+
+  .one {
+    left: 70px;
+  }
+
+  #one {
+    font-size: 15px;
+  }
+
+  .two {
+    left: 50px;
+  }
+
+  .three {
+    left: 100px;
+  }
+
+  #vision {
+     text-align: left;
+  }
+
+  .four {
+     top: 500px;
+     left: 100px;
+  }
+
+  #products {
+    text-align: left;
+    padding-left: 120px;
+  }
+
+  #take {
+    text-align: left;
+    padding-left: 20px;
+    font-size: 15px;
+  }
+
+  .container-2 {
+    height: 1600px;
+  }
+
+  .five {
+    left: 50px;
+  }
+
+  .six {
+     top: 650px;
+     left: 150px;
+  }
+
+  .seven {
+    top: 1050px;
+    left: 170px;
+ }
+
+  .container-3 {
+    height: 600px;
+  }
+
+  #edge {
+    top: 100px;
+    left: 170px;
+  }
+
+  .eight {
+    top: 400px;
+    left: 70px;
+  }
+
+  .container-4 {
+    height: 600px;
+  }
+
+  .nine {
+     top: 100px;
+     left: 70px;
+  }
+
+  #round {
+    top: 400px;
+    left: 70px;
+  }
+
+  .container-5 {
+    height: 700px;
+  }
+
+  .ten {
+    top: 200px;
+    left: 70px;
+ }
+
+  #claims {
+   top: 400px;
+   left: 100px;
+  }
+
+  .container-6 {
+    height: 1200px;
+  }
+
+  .eleven {
+    top: 200px;
+    left: 70px;
+ }
+
+  #badge {
+   top: 600px;
+   left: 100px;
+  }
+
+  .container-7 {
+    height: 2300px;
+  }
+
+  .thirteen {
+    top: 800px;
+    left: 170px;
+  }
+
+  .fourteen {
+    left: 170px;
+  }
+
+  .twelve {
+    top: 1450px;
+    left: 170px;
+    right: 0;
+  }
+
+  th {
+    font-size: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+  }
+
+  td {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+  }
+
+  .close {
+     display: none;
+  }
+
+  .close2 {
+    display: none;
+  }
+
+  .close3 {
+    display: none;
+  }
+
+  .close4 {
+     left: 10px;
+     bottom: 250px;
+  }
+
+ 
+
 }
 
-.first {
-  width: 750px;
-}
-
-#bars {
-  display: block;
-  margin-left: 400px;
-}
-
-.container-1 {
-  height: 1100px;
-}
-
-.three {
-  left: 200px;
-}
-
-#vision {
-  text-align: left;
-}
-.four {
-  top: 500px;
-  left: 200px;
-}
-
-.container-2 {
-  width: 750px;
-}
-
-#edge {
-  left: 470px;
-}
-
-.nine {
-  left: 400px;
-
-}
-
-.container-7 {
-  height: 2300px;
-}
-
-.thirteen {
-  top: 800px;
-  left: 240px;
-}
-
-.fourteen {
-  left: 240px;
-}
-
-.twelve {
-  top: 1450px;
-  left: 240px;
-  right: 0;
-}
-
-}
 
 
-
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 425px) {
   
-
+  
   header {
     background-size: cover;
     background-position: contain;
     height: 55rem;
-}
+  }
 
-.first li {
+  .first {
+    height: 100px;
+  }
+
+  .first li {
     display: none;
-}
+  }
 
-#lasaco {
+  #lasaco {
     display: block;
-    margin-left: 30px;
-    
-}
+    margin-left: 30px;   
+  }
 
-#lasaco img {
+  #lasaco img {
     width: 130px;
-}
+  }
 
-#bars {
+  #bars {
     display: block;
-    margin-left: 400px;
+    margin-left: 100px;
     font-size: 40px;
     padding-top: 20px;
-}
+  }
 
-.first {
-height: 100px;
-}
+  .one {
+    left: 20px;
+  }
 
-.two {
+  .two {
+    left: 20px;
+  }
+
+  #one {
+    font-size: 15px;
+  }
+
+  .three,.four {
+    left: 20px;
+  }
+
+  #take {
+    text-align: center;
+    padding: 0 1rem;
+  }
+
+  #products {
+    font-size: 15px;
+    padding-left: 20px;
+    text-align: center;
+  }
+
+  .seven {
+     left: 100px;
+  }
+
+  .six {
+    left: 100px;
+  }
+
+  #edge {
+    width: 320px;
+    left: 30px;
+  }
+
+  .eight {
+    left: 30px;
+  }
+
+  #four {
+    padding-right: 2rem;
+  }
+
+  .nine {
+    left: 30px;
+  }
+
+  #round {
+    width: 300px;
+    left: 5px;
+  }
+
+  #claims {
+  width: 350px;
+  left: 30px;
+  top: 450px;
+ }
+
+ .ten {
+  left: 30px;
+ }
+
+ .eleven {
+  left: 30px;
+ }
+
+ #badge {
+  left: 60px;
+ }
+
+ #cutting {
+  font-size: 25px;
+ }
+
+ .twelve,.thirteen,.fourteen {
   left: 50px;
-}
+ }
 
-#one {
-  font-size: 20px;
-}
+ #policies {
+  padding-right: 20px;
+ }
 
-.seven {
-  left: 10px;
-}
-
-.six {
-  left: 260px;
-}
-
-#edge {
-  width: 220px;
-}
-
-.nine {
-  left: 300px;
-  right: 0;
-}
-
-#round {
-  width: 220px;
-}
-
-#claims {
-  width: 180px;
-  left: 500px;
-  top: 150px;
-}
-
-.ten {
-  left: 10px;
-}
-
-th {
+ th {
   padding-left: 20px;
-}
+ }
 
-td {
+ td {
   padding-left: 20px;
-}
+ }
 
-.close {
+ .close {
   left: 130px;
   top: 320px;
-}
+ }
 
-.close2 {
+ .close2 {
   left: 200px;
-}
+ }
 
-.close4 {
+ .close4 {
   left: 20px;
+ }
+
+ .second {
+  right: 40px;
+ }
+
 }
 
-.second {
-  right: 40px;
+
+
+@media screen and (max-width: 375px) {
+  
+   #bars {
+     margin-left: 50px;
+   }
+
+   #the {
+     font-size: 12px;
+   }
+
+   .one {
+     left: 30px;
+   }
+
+   .six,.seven {
+     left: 70px;
+   }
+
+   .eight {
+     left: 15px;
+   }
+
+   #edge {
+    width: 220px;
+    left: 70px;
+   }
+
+   #round {
+     width: 220px;
+   }
+
+   #claims {
+    width: 220px;
+    left: 70px;
+  }
+
+  #policies {
+    padding-right: 10px;
+  }
+
+  th {
+    padding-left: 10px;
+  }
+
+  td {
+    padding-left: 10px;
+  }
+
+  footer {
+    height: 600px;
+  }
+
+  .close4 {
+    bottom: 30px;
+    left: 10px;
+  }
+   
 }
+
+
+@media screen and (max-width: 320px) {
+  
+  #bars {
+    margin-left: 5px;
+  }
+
+  #lasaco {
+    margin-left: 5px;
+  }
+
+  #welcome {
+    font-size: 15px;
+  }
+
+  #get {
+    padding: 15px 30px;
+  }
+
+  .one,.two {
+    left: 5px;
+  }
+
+  #about {
+    padding: 15px 20px;
+  }
+
+  #vission {
+    width: 250px;
+  }
+
+  #mission {
+    width: 250px;
+  }
+
+  .six,.seven {
+    left: 40px;
+  }
+
+  #cutting {
+    font-size: 15px;
+  }
+
+  #cutting2 {
+    font-size: 15px;
+  }
+
+  #edge {
+    left: 40px;
+  }
+
+  #round {
+    left: 10px;
+  }
+
+  #claims {
+    left: 40px;
+  }
+
+  #badge {
+    width: 200px;
+  }
+
+  .twelve,.thirteen,.fourteen {
+    left: 40px;
+  }
+
+  .close4 {
+    display: none;
+  }
+
+  #policies {
+    padding-right: 5px;
+  }
+
+  th {
+    font-size: 7px;
+  }
+
+  td {
+    font-size: 7px;
+  }
+
 
 }
